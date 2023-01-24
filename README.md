@@ -1,4 +1,4 @@
-# razorpay-payment-gateway-integration-in-php
+# Razorpay payment gateway in PHP and MYSQL
 Integrate Razorpay payment gateway in PHP and MYSQL. Razorpay payment gateway integration sample app in PHP . Sell products with Razorpay payment gateway . Create an ecommerce system in PHP with Razorpay payment gateway. 
 ![image](https://user-images.githubusercontent.com/41726733/214341907-54497b62-eee8-4b74-9fd5-ec0f37a588ca.png) <br>
 Razorpay is one of the popular payment gateway .<br>
